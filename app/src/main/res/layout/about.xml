@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Well this is less like about us and more like about Me! Yep You got it! We are talking about the coolest guy on the planet here! Feel free to donate your 1000 and 500 rupees notes to me I am bankrupt anyway!"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvaboutUs" />
+</LinearLayout>

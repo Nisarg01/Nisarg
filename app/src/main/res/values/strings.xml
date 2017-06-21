@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nisarg</string>
+    <string name="Button1">Add one!</string>
+    <string name="Button2">Sub one!</string>
+    <string name="first_head">Nisarg Vasavada - 1st App</string>
+    <string name="first_typo">Your total is 0</string>
+</resources>
